@@ -16,6 +16,7 @@ public class Pattern3
 
 /*
 Output:
+n=4
 1                                                                                                                                              
 1*2                                                                                                                                            
 1*2*3                                                                                                                                          
