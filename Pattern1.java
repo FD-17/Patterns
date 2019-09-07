@@ -11,3 +11,10 @@ public class Pattern1
 	}
 	}
 }
+/*
+Output:
+n=3
+111
+222
+333
+*/
